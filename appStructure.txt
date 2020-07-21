@@ -1,0 +1,19 @@
+TodoProject
+
+	todo(app folder)
+		migrations
+		static
+			todos
+				styles.css
+		templates
+			todo
+				todo_list.html
+		models.py(class for database table)
+		urls.py(app specific url)
+		views.py(renders the html page upon)
+
+
+
+	TodoProject
+		settings.py
+		urls.py
